@@ -18,8 +18,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <title>ChatGPT 3.5 16K</title>
       <body className={inter.className}>
-        <Header /> {/* Add this line */}
+        <Header />
         {children}
       </body>
     </html>
