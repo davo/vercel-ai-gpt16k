@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.1.1",
     "ai": "2.0.1",
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
